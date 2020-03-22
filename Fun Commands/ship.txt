@@ -1,0 +1,3 @@
+{choose:Taquitos;Shane_Playz;Radeline;J V;LupoEarl;mitty53;ShouldI;Ethanos;Serana;Nashi;Cyrus;Gado;LightningALT;RTZ;Jaxon;kelekky}
+{choose2:Taquitos;Shane_Playz;Radeline;J V;LupoEarl;mitty53;ShouldI;Ethanos;Serana;Nashi;Cyrus;Gado;LightningALT;RTZ;Jaxon;kelekky}
+I think **{choice}** and **{choice2}** is a good ship!
